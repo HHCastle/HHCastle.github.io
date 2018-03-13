@@ -38,4 +38,3 @@ categories: test1
         <p>There are no posts in this categories.</p>
     {% endif %}
 </div>
-</div>
