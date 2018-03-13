@@ -1,12 +1,12 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
+title: HHCastle
+description: HHCastle Blog
+author: HHCastle
 logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
+github: https://HHCastle.github.io
 about: Freelance developer
 
-baseurl: ""
-url: ""
+baseurl: "https://HHCastle.github.io"
+url: "https://HHCastle.github.io"
 
 allowsearch: true
 
