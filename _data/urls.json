@@ -6,8 +6,8 @@
     "layout": "post"
   },
   {
-    "text": "About",
-    "url": "/about/",
+    "text": "Test1",
+    "url": "/test1/",
     "icon": "fa-comments"
   },
   {
@@ -16,19 +16,8 @@
     "icon": "fa-desktop"
   },
   {
-    "text": "Resume",
-    "url": "/#",
+    "text": "test2",
+    "url": "/test2",
     "icon": "fa-graduation-cap",
-  },
-  {
-    "text": "Github",
-    "url": "/#",
-    "icon": "fa-github"
-  },
-  {
-    "text": "XML Feed",
-    "url": "/feed.xml",
-    "icon": "fa-feed",
-    "target": _blank
   }
 ]
